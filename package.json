@@ -1,0 +1,18 @@
+{
+  "name": "create-next-example-app",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "clone-deep": "^4.0.1",
+    "eslint": "^5.15.3",
+    "eslint-config-cratebind": "^1.0.5",
+    "next": "^8.0.3",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "reakit": "^0.16.0",
+    "reakit-theme-default": "^0.2.0"
+  }
+}
